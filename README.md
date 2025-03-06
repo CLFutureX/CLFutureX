@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Netty
-least commit
+latest commit
 - [14333](https://github.com/netty/netty/pull/14333) AdapativeByteBufAllocator: Reduce memory fragmentation
 - [14246](https://github.com/netty/netty/pull/14246) In some scenarios, avoid unnecessary memory allocation
 - [14233](https://github.com/netty/netty/pull/14233) - Avoid the invalid execution of empty tasks
