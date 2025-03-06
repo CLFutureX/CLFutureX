@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 ## 最近的提交记录
-- [14333](https://github.com/netty/netty/pull/14333) 
+#Netty
+- [14333](https://github.com/netty/netty/pull/14333) AdapativeByteBufAllocator: Reduce memory fragmentation
+- [14246](https://github.com/netty/netty/pull/14246) In some scenarios, avoid unnecessary memory allocation
+- [14233](https://github.com/netty/netty/pull/14233) - Avoid the invalid execution of empty tasks
 <!--
 **CLFutureX/CLFutureX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
