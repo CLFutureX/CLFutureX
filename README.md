@@ -23,5 +23,5 @@ I've been fortunate to contribute to several impactful open-source projects:
 
 ### 🤖 AI Agent & AI Infrastructure
 - **[OpenHands](https://github.com/OpenHands/software-agent-sdk)**: An open-source framework focused on the development and collaboration of AI Agents, aiming to lower the barrier to building practical AI agents.
-- **[SGLang](https://github.com/sgl-project/sglang)**: Efficient language model serving and inference.
+- **[SGLang](https://github.com/sgl-project/sglang)**: SGLang is a high-performance serving framework for large language models and multimodal models..
 - **[vLLM](https://github.com/vllm-project/vllm)**: High-throughput and memory-efficient LLM serving.
